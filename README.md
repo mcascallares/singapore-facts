@@ -1,7 +1,7 @@
 singapore-facts
 ===============
 
-A proof of concept showing interesting visualisations and facts about Singapore. I used this project as excuse to play a bit with [Go](https://golang.org) and [MongoDB](http://www.mongodb.org)
+A proof of concept showing interesting visualizations and facts about Singapore. I used this project as excuse to play a bit with [Go](https://golang.org) and [MongoDB](http://www.mongodb.org)
 
 
 Data sources
